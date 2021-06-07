@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- my email : rkoad55@gmail.com
+- stackoverflow : https://stackoverflow.com/users/4720681/rakesh-kumar-oad
+- skype : rakesh.kumar466
 
 <!---
 rkoad55/rkoad55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
