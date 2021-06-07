@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakesh Kumar Oad 
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Vue,Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
